@@ -17,4 +17,10 @@ new stuffs coming uppp
  i just want to call on your concern 
  
  Lesleyyyy
+<<<<<<< HEAD
 >>>>>>> 6b85472bae3c0fedfd71c89ddd1e7a38fd56faae
+=======
+
+
+lesles
+>>>>>>> 245a0fb95b769ee2cc4a1c880748b4487b656926
